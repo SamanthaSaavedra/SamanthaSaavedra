@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="images/profile.png"/>
-</div>
+![Header](images/profile.png)
 
 ###
 
@@ -27,7 +25,7 @@
 
 ###
 
-<h3 align="left">💫 About Me:</h3>
+<h3 align="left">About Me:</h3>
 
 ###
 
