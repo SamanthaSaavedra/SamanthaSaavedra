@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">👩‍💻 I’m a Computer Science student passionate about Python, data science, machine learning, competitive programming and algorithms.<br><br>🔍 Interested in research related to computer science and machine learning.<br><br>📚 Committed to lifelong learning, continuously growing and evolving.<br><br>💬 Ask me about programming, data science, and AI!<br><br><b>🖥 Fun fact!:</b> I love exploring new tech and solving complex problems!</p>
+<p align="left">👩‍💻 I’m a Computer Science student passionate about Python, data science, machine learning, competitive programming and algorithms.<br><br>🔍 Interested in research related to computer science and machine learning.<br><br>📚 Committed to lifelong learning, continuously growing and evolving.<br><br>💬 Ask me about programming, data science, and AI!<br><br><b>📫 Reach me: </b><a href="mailto:samanthasaavedra.dev@gmail.com">samanthasaavedra.dev@gmail.com</a><br><br><b>🖥 Fun fact!:</b> I love exploring new tech and solving complex problems!</p>
 
 ###
 
