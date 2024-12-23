@@ -14,13 +14,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/saidavaas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="samanthasaavedra.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  <a href="https://www.linkedin.com/in/saidavaas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:samanthasaavedra.dev@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
 </div>
 
 ###
@@ -29,11 +24,13 @@
 
 ###
 
-<p align="left">👩‍💻 I’m a Computer Science student passionate about Python, data science, and machine learning, competitive programming and algorithms.<br><br>🔍 Interested in research related to computer science and machine learning.<br><br>📚 Committed to lifelong learning, continuously growing and evolving.<br><br>💬 Ask me about programming, data science, and AI!<br><br>📫 Reach me: samanthasaavedra.dev@gmail.com<br><br>🖥 Fun fact: I love exploring new tech and solving complex problems!</p>
+<p align="left">👩‍💻 I’m a Computer Science student passionate about Python, data science, and machine learning, competitive programming and algorithms.<br><br>🔍 Interested in research related to computer science and machine learning.<br><br>📚 Committed to lifelong learning, continuously growing and evolving.<br><br>💬 Ask me about programming, data science, and AI!<br><br><b>🖥 Fun fact!:</b> I love exploring new tech and solving complex problems!</p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/SamanthaSaavedra/SamanthaSaavedra/output/snake.svg" alt="Snake animation" />
+<div align="center">
+   <img src="https://raw.githubusercontent.com/SamanthaSaavedra/SamanthaSaavedra/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
